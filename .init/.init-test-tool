@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/career-connect-platform-282025-282035/career_platform_backend"
+}
